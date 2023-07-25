@@ -1,0 +1,52 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 20, 2023, 11:37:11 AM
+    Author     : Thanh An
+*/
+.car1{
+    background-image: url('images/hinh-nen-1.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.car2{
+    text-align: center;
+    color: appworkspace;
+    padding-top: 250px;
+}
+.car1 a{
+    color: buttonshadow;
+}
+.car1 h1{
+    color: buttonshadow;
+}
+.car3{
+    color: black;
+}
+.car3 a{
+    color: darkorchid;
+}
+.car4{
+    text-align: center;
+    display: table;
+    vertical-align: middle;
+}
+.car5{
+    background-image: url('images/koenigsegg-jesko-absolut-1-16509495687861009893467.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.car6{
+    background-image: url('images/hinh-anh-anime-phong-canh-1-407x560.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.button{
+    background-color: blue;
+}
